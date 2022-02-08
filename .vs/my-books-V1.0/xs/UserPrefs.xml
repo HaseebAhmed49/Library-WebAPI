@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{18C27619-4B8E-437E-A5FB-2C36D27829A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.my-books-V1.0 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="my-books-V1.0/Controllers/LogsController.cs">
+    <Files>
+      <File FileName="my-books-V1.0/Startup.cs" Line="48" Column="1" />
+      <File FileName="my-books-V1.0/Exceptions/ExceptionMiddleWareExtensions.cs" />
+      <File FileName="my-books-V1.0/Exceptions/CustomExceptionMiddleWare.cs" />
+      <File FileName="my-books-V1.0/Controllers/PublishersController.cs" />
+      <File FileName="my-books-V1.0/Data/Services/LogsService.cs" />
+      <File FileName="my-books-V1.0/Controllers/LogsController.cs" Line="33" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="my-books-V1.0" expanded="True">
+            <Node name="my-books-V1.0" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="LogsController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Logs" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
