@@ -1,22 +1,19 @@
 ﻿<Properties StartupConfiguration="{18C27619-4B8E-437E-A5FB-2C36D27829A1}|Default">
   <MonoDevelop.Ide.ItemProperties.my-books-V1.0 PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="my-books-tes/PublishersServiceTest.cs">
-    <Files>
-      <File FileName="my-books-tes/UnitTest1.cs" Line="61" Column="51" />
-      <File FileName="my-books-V1.0/Data/Services/PublishersService.cs" Line="46" Column="1" />
-      <File FileName="my-books-V1.0/Data/Paging/PaginatedList.cs" Line="41" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="my-books-V1.0" expanded="True" selected="True">
+          <Node name="my-books-V1.0" expanded="True">
             <Node name="my-books-tests" expanded="True">
               <Node name="Dependencies" expanded="True" />
             </Node>
             <Node name="my-books-V1.0" expanded="True">
               <Node name="Data" expanded="True">
                 <Node name="Paging" expanded="True" />
-                <Node name="Services" expanded="True" />
+                <Node name="Services" expanded="True">
+                  <Node name="PublishersService.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -24,10 +21,10 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="my-books-V1.0" expanded="True">
+          <Node name="my-books-V1.0" expanded="True" selected="True">
             <Node name="my-books-tests" expanded="True">
               <Node name="my_books_tests" expanded="True">
-                <Node name="PublishersServiceTest" expanded="True" selected="True" />
+                <Node name="PublishersServiceTest" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -41,7 +38,9 @@
   </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/haseebahmed/Desktop/my-books-V1.0/my-books-tes/PublishersServiceTest.cs" relfile="my-books-tes/PublishersServiceTest.cs" line="102" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
