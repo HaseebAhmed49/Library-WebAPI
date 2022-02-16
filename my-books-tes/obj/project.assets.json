@@ -9010,11 +9010,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/haseebahmed/Desktop/my-books-V1.0/my-books-tes/my-books-tests.csproj",
+      "projectUniqueName": "/Users/haseebahmed/Documents/GitHub/Library-WebAPI/my-books-tes/my-books-tests.csproj",
       "projectName": "my-books-tests",
-      "projectPath": "/Users/haseebahmed/Desktop/my-books-V1.0/my-books-tes/my-books-tests.csproj",
+      "projectPath": "/Users/haseebahmed/Documents/GitHub/Library-WebAPI/my-books-tes/my-books-tests.csproj",
       "packagesPath": "/Users/haseebahmed/.nuget/packages/",
-      "outputPath": "/Users/haseebahmed/Desktop/my-books-V1.0/my-books-tes/obj/",
+      "outputPath": "/Users/haseebahmed/Documents/GitHub/Library-WebAPI/my-books-tes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/haseebahmed/.config/NuGet/NuGet.Config"
@@ -9029,8 +9029,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/haseebahmed/Desktop/my-books-V1.0/my-books-V1.0/my-books-V1.0.csproj": {
-              "projectPath": "/Users/haseebahmed/Desktop/my-books-V1.0/my-books-V1.0/my-books-V1.0.csproj"
+            "/Users/haseebahmed/Documents/GitHub/Library-WebAPI/my-books-V1.0/my-books-V1.0.csproj": {
+              "projectPath": "/Users/haseebahmed/Documents/GitHub/Library-WebAPI/my-books-V1.0/my-books-V1.0.csproj"
             }
           }
         }
@@ -9077,7 +9077,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -7,13 +7,12 @@
           <Node name="my-books-V1.0" expanded="True">
             <Node name="my-books-tests" expanded="True">
               <Node name="Dependencies" expanded="True" />
+              <Node name="PublishersServiceTest.cs" selected="True" />
             </Node>
             <Node name="my-books-V1.0" expanded="True">
               <Node name="Data" expanded="True">
                 <Node name="Paging" expanded="True" />
-                <Node name="Services" expanded="True">
-                  <Node name="PublishersService.cs" selected="True" />
-                </Node>
+                <Node name="Services" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -21,13 +20,7 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="my-books-V1.0" expanded="True" selected="True">
-            <Node name="my-books-tests" expanded="True">
-              <Node name="my_books_tests" expanded="True">
-                <Node name="PublishersServiceTest" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="my-books-V1.0" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
@@ -39,7 +32,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/haseebahmed/Desktop/my-books-V1.0/my-books-tes/PublishersServiceTest.cs" relfile="my-books-tes/PublishersServiceTest.cs" line="102" column="1" />
+      <Breakpoint file="/Users/haseebahmed/Documents/GitHub/Library-WebAPI/my-books-tes/PublishersServiceTest.cs" relfile="my-books-tes/PublishersServiceTest.cs" line="102" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
