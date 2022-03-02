@@ -1,26 +1,26 @@
 ﻿<Properties StartupConfiguration="{18C27619-4B8E-437E-A5FB-2C36D27829A1}|Default">
   <MonoDevelop.Ide.ItemProperties.my-books-V1.0 PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="my-books-V1.0/Data/Models/Book_Author.cs">
+    <Files>
+      <File FileName="my-books-V1.0/Data/Models/Author.cs" Line="1" Column="1" />
+      <File FileName="my-books-V1.0/Data/Models/Book.cs" />
+      <File FileName="my-books-V1.0/Data/Models/Book_Author.cs" Line="17" Column="1" />
+      <File FileName="my-books-V1.0/Data/Models/Publisher.cs" />
+      <File FileName="my-books-V1.0/Data/ViewModels/BookVM.cs" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="my-books-V1.0" expanded="True">
-            <Node name="my-books-tests" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="PublishersServiceTest.cs" selected="True" />
-            </Node>
             <Node name="my-books-V1.0" expanded="True">
               <Node name="Data" expanded="True">
-                <Node name="Paging" expanded="True" />
-                <Node name="Services" expanded="True" />
+                <Node name="Models" expanded="True">
+                  <Node name="Book_Author.cs" selected="True" />
+                </Node>
+                <Node name="ViewModels" expanded="True" />
               </Node>
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="my-books-V1.0" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
